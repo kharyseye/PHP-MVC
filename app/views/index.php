@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="container mt-3">
-        <a href="index.php?controllers=etudiant&action=add" class="btn btn-primary">AJOUTER</a>
+        <a href="add.php" class="btn btn-primary">AJOUTER</a>
 
         <table class="table table-striped">
             <thead>

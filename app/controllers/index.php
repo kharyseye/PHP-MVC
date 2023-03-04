@@ -8,7 +8,7 @@ if(isset($_GET['action']))
 }
 switch($action){
     case"add":
-        if(isser($_POST['submit']))
+        if(isset($_POST['submit']))
         {
             $id = $_POST['id'];
             $nom = $_POST['nom'];
